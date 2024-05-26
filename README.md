@@ -1,4 +1,4 @@
-# Open re-implementation of the Quansheng UV-K5 v2.1.27 firmware
+# Open re-implementation of the Quansheng UV-K5 v2.1.27 firmware.
 
 <img src="images/radio_picture.jpg" width=300 align="right"/>
 
